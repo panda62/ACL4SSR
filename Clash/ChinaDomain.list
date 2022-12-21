@@ -1,5 +1,10 @@
 # 直连列表
 
+# DMALL
+DOMAIN-KEYWORD,dmall.com
+DOMAIN-KEYWORD,dmall-os.com
+DOMAIN-KEYWORD,rta-os
+
 # MyList
 DOMAIN-SUFFIX,13th.tech
 DOMAIN-SUFFIX,423down.com
